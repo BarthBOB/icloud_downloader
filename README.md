@@ -1,6 +1,11 @@
 # 📥 iCloud Downloader (via Python)
 
+![Python](https://img.shields.io/badge/Python-3.7%2B-blue?logo=python)
+![License](https://img.shields.io/badge/license-MIT-green)
+
 Script em Python para baixar pastas e arquivos diretamente do **iCloud Drive**, com autenticação e suporte a 2FA. Ideal para fazer backup local de grandes quantidades de arquivos organizados em pastas.
+
+📁 [Ver o script principal](icloud_downloader.py)
 
 ---
 
@@ -28,14 +33,14 @@ Script em Python para baixar pastas e arquivos diretamente do **iCloud Drive**, 
 1. **Clone o repositório:**
 
 ```bash
-git clone https://github.com/BarthBOB/icloud-downloader.git
-cd icloud-downloader
+git clone https://github.com/BarthBOB/icloud_downloader.git
+cd icloud_downloader
 ```
 
 2. **Instale as dependências:**
 
 ```bash
-pip install pyicloud
+pip install -r requirements.txt
 ```
 
 ---
