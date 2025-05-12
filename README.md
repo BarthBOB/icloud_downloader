@@ -28,7 +28,7 @@ Script em Python para baixar pastas e arquivos diretamente do **iCloud Drive**, 
 1. **Clone o repositório:**
 
 ```bash
-git clone https://github.com/icloud_downloader/icloud-downloader.git
+git clone https://github.com/BarthBOB/icloud-downloader.git
 cd icloud-downloader
 ```
 
